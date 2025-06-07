@@ -1,7 +1,7 @@
 ## 👋 Hi, I'm Binayak Naudia
 
 - 📚 a self-taught learner  
-- 🎓 at present, Third Yearite at GIETU, Gunupur  
+- 🎓 currently, Third Yearite at GIETU, Gunupur  
 - 📧 My [Gmail](mailto:binayaknaudiavk18@gmail.com)  
 
 ---
