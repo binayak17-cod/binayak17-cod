@@ -6,7 +6,7 @@
 
 ---
 
-### 🛠️ **Tech worked with till now**
+### 🛠️ **Technical stack I'm familiar with**
 
 <div align="left">
 
